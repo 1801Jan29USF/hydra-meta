@@ -1,2 +1,4 @@
 hydra-user-service
 hydra-batch-service
+gateway-service
+discovery-service

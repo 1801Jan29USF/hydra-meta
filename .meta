@@ -1,6 +1,8 @@
 {
   "projects": {
     "hydra-user-service": "https://github.com/1801Jan29USF/hydra-user-service.git",
-    "hydra-batch-service": "https://github.com/1801Jan29USF/hydra-batch-service.git"
+    "hydra-batch-service": "https://github.com/1801Jan29USF/hydra-batch-service.git",
+    "gateway-service": "https://github.com/1801Jan29USF/hydra-gateway-service.git",
+    "discovery-service": "https://github.com/1801Jan29USF/hydra-discovery-service.git"
   }
 }
